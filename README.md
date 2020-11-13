@@ -1,0 +1,1 @@
+# join-two-table-using-knex-get-data-by-id
